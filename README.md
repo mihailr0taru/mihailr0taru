@@ -74,7 +74,7 @@ The goal of FleetForward is to provide a **reliable and scalable system for mana
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/mihailr0taru
 - LinkedIn: https://www.linkedin.com/in/mihail-rotaru-b00989279/
 
 ---
